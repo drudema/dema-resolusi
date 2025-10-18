@@ -1,2 +1,2 @@
 # dema-resolusi
-Tes membuat repo di githun
+Tes membuat repo di github
